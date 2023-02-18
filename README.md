@@ -9,4 +9,13 @@ As part of the "Client Side" course, we were asked to build a website that simul
 <h3>Screenshots:</h3>
 
 
+![image_1](/screenshots/image_1.png?raw=true "Optional Title")
+![image_2](/screenshots/image_2.png?raw=true "Optional Title")
+![image_3](/screenshots/image_3.png?raw=true "Optional Title")
+![image_4](/screenshots/image_4.png?raw=true "Optional Title")
+
+
+
+
+
 
